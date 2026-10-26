@@ -130,6 +130,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosteeler&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165" alt="Top Languages" />
 </div>
 
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prosteeler/prosteeler/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prosteeler/prosteeler/output/github-contribution-grid-snake.svg" />
+    <img alt="prosteeler's Contribution Snake" src="https://raw.githubusercontent.com/prosteeler/prosteeler/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <br/>
 
 <div align="center">
