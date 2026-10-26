@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/NVIDIA%20Inception-Program%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Inception" />
   </a>
   <img src="https://img.shields.io/badge/Status-Architecting%20%26%20Building-10b981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Systems-047857?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
 </p>
 
 <!-- Socials & Connect Bar -->
@@ -38,13 +39,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-- 💼 **Chief Technology Officer & Co-Founder** at **[Excel Masters](https://github.com/ExcelMasters-in)**
-- ⚡ **Focus**: Backend architecture, cloud infrastructure, API design & high-uptime web systems
-- 🛠️ **Current Mission**: Scaling the **[Excel Masters Platform](https://www.excelmasters.in/)** and community bot infrastructure
-- 💬 **Ask me about**: Full-stack web architecture, TypeScript, Next.js, and Discord automation engines
-- 📍 **Location**: India 🇮🇳
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Hey there! I'm prosteeler 👋</h3>
+      <p>
+        I'm the <b>Co-Founder & Chief Technology Officer</b> at <b><a href="https://github.com/ExcelMasters-in">Excel Masters</a></b>.<br/><br/>
+        ⚡ <b>Engineering Focus</b>: Architecting ultra-scalable web platforms, low-latency microservices, and reliable cloud infrastructure.<br/>
+        🛠️ <b>Current Mission</b>: Scaling the <a href="https://www.excelmasters.in/">Excel Masters Platform</a> and automated Discord community pipelines.<br/>
+        💡 <b>Philosophy</b>: Clean code, zero-downtime deployments, and bulletproof system reliability.<br/>
+        📍 <b>Location</b>: India 🇮🇳
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" alt="Developer Animation" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
