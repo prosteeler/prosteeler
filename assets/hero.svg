@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="529" viewBox="0 0 1200 529" role="img" aria-label="prosteeler — co-founder &amp; cto · systems architecture · web engineering">
+  <title>prosteeler — co-founder &amp; cto · systems architecture · web engineering</title>
+  <defs>
+    <linearGradient id="h-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#059669" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#1a2033" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="h-glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10152a"/>
+      <stop offset="1" stop-color="#05070e"/>
+    </linearGradient>
+    <radialGradient id="h-orb" cx=".85" cy="0" r=".9">
+      <stop offset="0" stop-color="#059669" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="h-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="h-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes in { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: none } }
+    .l0{opacity:0;animation:in .35s ease-out 0.60s forwards}.l1{opacity:0;animation:in .35s ease-out 0.92s forwards}.l2{opacity:0;animation:in .35s ease-out 1.24s forwards}.l3{opacity:0;animation:in .35s ease-out 1.56s forwards}.l4{opacity:0;animation:in .35s ease-out 1.88s forwards}.l5{opacity:0;animation:in .35s ease-out 2.20s forwards}.l6{opacity:0;animation:in .35s ease-out 2.52s forwards}.l7{opacity:0;animation:in .35s ease-out 2.84s forwards}.l8{opacity:0;animation:in .35s ease-out 3.16s forwards}.l9{opacity:0;animation:in .35s ease-out 3.48s forwards}.l10{opacity:0;animation:in .35s ease-out 3.80s forwards}.l11{opacity:0;animation:in .35s ease-out 4.12s forwards}.l12{opacity:0;animation:in .35s ease-out 4.44s forwards}
+    .cur { opacity: 0; animation: in .2s 4.76s forwards, blink 1s steps(1) 4.76s infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .scan { animation: scan 7s linear infinite; }
+    @keyframes scan { from { transform: translateY(-40px) } to { transform: translateY(529px) } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .9 } 100% { transform: scale(3.2); opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important } }
+  </style>
+  <linearGradient id="h-name" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#34d399"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  <linearGradient id="h-scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset="1" stop-color="#5eead4" stop-opacity=".07"/></linearGradient>
+  <clipPath id="h-clip"><rect x="1" y="1" width="1198" height="527" rx="16"/></clipPath>
+  
+  <rect x=".5" y=".5" width="1199" height="528" rx="16" fill="url(#h-glass)"/>
+  <rect x=".5" y=".5" width="1199" height="528" rx="16" fill="url(#h-grid)"/>
+  <rect x=".5" y=".5" width="1199" height="528" rx="16" fill="url(#h-orb)"/>
+  <rect x=".5" y=".5" width="1199" height="528" rx="16" fill="none" stroke="url(#h-border)" stroke-width="1"/>
+  <g clip-path="url(#h-clip)"><rect class="scan" x="0" y="0" width="1200" height="40" fill="url(#h-scan)"/></g>
+
+  <circle cx="28" cy="26" r="6" fill="#ff5f57"/><circle cx="48" cy="26" r="6" fill="#febc2e"/><circle cx="68" cy="26" r="6" fill="#28c840"/>
+  <text x="600" y="31" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#4a5068">prosteeler@excelmasters — zsh — 120×32</text>
+  <line x1="0" y1="50" x2="1200" y2="50" stroke="#1a2033"/>
+
+  <text x="40" y="112" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="url(#h-name)">prosteeler</text>
+  <text x="42" y="146" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14" fill="#7d849b">co-founder &amp; cto · systems architecture · web engineering</text>
+  
+  <circle cx="995.33" cy="100" r="4" fill="#00ED64" filter="url(#h-glow)"/>
+  <circle cx="995.33" cy="100" r="4" fill="none" stroke="#00ED64" class="pulse"/>
+  <text x="1160" y="105" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#00ED64">all systems nominal</text>
+  <text x="1160" y="130" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="12" fill="#4a5068">uplink: github.com/prosteeler</text>
+  <line x1="40" y1="168" x2="1160" y2="168" stroke="#1a2033" stroke-dasharray="2 6"/>
+
+  <text class="l0" x="40" y="196" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#00ED64">❯ </tspan><tspan fill="#e6e9f5">whoami</tspan></text><text class="l1" x="40" y="219" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#e6e9f5">prosteeler</tspan><tspan fill="#7d849b"> · co-founder &amp; chief technology officer @ excel masters</tspan></text><text class="l2" x="40" y="242" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7d849b"> </tspan></text><text class="l3" x="40" y="265" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#00ED64">❯ </tspan><tspan fill="#e6e9f5">systemctl status </tspan><tspan fill="#7d849b">--infra</tspan></text><text class="l4" x="40" y="288" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#00ED64">● </tspan><tspan fill="#e6e9f5">excelmasters.in       </tspan><tspan fill="#00ED64">active (running)   </tspan><tspan fill="#7d849b">learning platform · next.js on vercel edge</tspan></text><text class="l5" x="40" y="311" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#34d399">● </tspan><tspan fill="#e6e9f5">formula-core          </tspan><tspan fill="#34d399">org · open core    </tspan><tspan fill="#7d849b">deterministic formula engine</tspan></text><text class="l6" x="40" y="334" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#34d399">● </tspan><tspan fill="#e6e9f5">chic-bot-service      </tspan><tspan fill="#34d399">community infra    </tspan><tspan fill="#7d849b">discord gateway · onboarding · verification</tspan></text><text class="l7" x="40" y="357" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7d849b"> </tspan></text><text class="l8" x="40" y="380" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#00ED64">❯ </tspan><tspan fill="#e6e9f5">cat </tspan><tspan fill="#7d849b">/etc/stack</tspan></text><text class="l9" x="40" y="403" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#e6e9f5">next.js 15</tspan><tspan fill="#7d849b"> · </tspan><tspan fill="#3178c6">react 19</tspan><tspan fill="#7d849b"> · </tspan><tspan fill="#3178c6">typescript</tspan><tspan fill="#7d849b"> → web    </tspan><tspan fill="#00ED64">node</tspan><tspan fill="#7d849b"> · </tspan><tspan fill="#dea584">bun</tspan><tspan fill="#7d849b"> → services    </tspan><tspan fill="#3d8fd6">postgres</tspan><tspan fill="#7d849b"> · </tspan><tspan fill="#00ED64">mongodb</tspan><tspan fill="#7d849b"> · </tspan><tspan fill="#ff4438">redis</tspan><tspan fill="#7d849b"> → data</tspan></text><text class="l10" x="40" y="426" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#7d849b"> </tspan></text><text class="l11" x="40" y="449" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#00ED64">❯ </tspan><tspan fill="#e6e9f5">programs </tspan><tspan fill="#7d849b">--via excel-masters</tspan></text><text class="l12" x="40" y="472" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5" xml:space="preserve"><tspan fill="#76B900">nvidia-inception</tspan><tspan fill="#7d849b">  </tspan><tspan fill="#00ED64">mongodb-for-startups</tspan><tspan fill="#7d849b">  </tspan><tspan fill="#FB651E">yc-startup-school</tspan></text>
+  <text class="cur" x="40" y="495" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#00ED64">❯ </tspan><tspan fill="#e6e9f5">▍</tspan></text>
+</svg>

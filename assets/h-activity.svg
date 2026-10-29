@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Contribution Activity">
+  <title>Contribution Activity</title>
+  <linearGradient id="s-line" x1="0" x2="1"><stop offset="0" stop-color="#00ED64"/><stop offset=".4" stop-color="#5eead4" stop-opacity=".5"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></linearGradient>
+  <style>.sweep{animation:sweep 5s ease-in-out infinite}@keyframes sweep{0%{transform:translateX(-200px);opacity:0}30%{opacity:1}100%{transform:translateX(1200px);opacity:0}}@media (prefers-reduced-motion: reduce){.sweep{animation:none;opacity:0}}</style>
+  <text x="0" y="30" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#00ED64" letter-spacing="2">// 04</text>
+  <text x="61.65" y="31" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#e6e9f5" letter-spacing="-.3">Contribution Activity</text>
+  <text x="1200" y="30" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d849b">regenerated every 12h</text>
+  <rect x="0" y="50" width="1200" height="1.5" fill="url(#s-line)"/>
+  <rect class="sweep" x="0" y="49" width="160" height="3.5" rx="2" fill="#5eead4" opacity=".8"/>
+</svg>

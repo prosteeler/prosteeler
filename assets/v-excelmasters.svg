@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="270" viewBox="0 0 590 270" role="img" aria-label="Excel Masters — Deterministic AI spreadsheet learning platform">
+  <title>Excel Masters — Deterministic AI spreadsheet learning platform</title>
+  <defs>
+    <linearGradient id="vexcelmasterssvg-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00ED64" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#1a2033" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="vexcelmasterssvg-glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10152a"/>
+      <stop offset="1" stop-color="#05070e"/>
+    </linearGradient>
+    <radialGradient id="vexcelmasterssvg-orb" cx=".85" cy="0" r=".9">
+      <stop offset="0" stop-color="#00ED64" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#00ED64" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="vexcelmasterssvg-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="vexcelmasterssvg-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .9 } 100% { transform: scale(3.2); opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important } }
+  </style>
+  
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vexcelmasterssvg-glass)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vexcelmasterssvg-grid)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vexcelmasterssvg-orb)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="none" stroke="url(#vexcelmasterssvg-border)" stroke-width="1"/>
+  <text x="30" y="40" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.5" fill="#00ED64">CO-FOUNDER &amp; CTO</text>
+  
+  <circle cx="517.94" cy="36" r="4" fill="#00ED64" filter="url(#vexcelmasterssvg-glow)"/>
+  <circle cx="517.94" cy="36" r="4" fill="none" stroke="#00ED64" class="pulse"/>
+  <text x="560" y="40" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#00ED64">LIVE</text>
+  <text x="30" y="80" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="-.6" fill="#e6e9f5">Excel Masters</text>
+  <text x="30" y="110" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#7d849b">Deterministic AI spreadsheet learning platform</text>
+  <line x1="30" y1="128" x2="560" y2="128" stroke="#1a2033"/>
+  <text x="30" y="152" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#00ED64">▸ </tspan>Owns platform architecture, infrastructure &amp; delivery</text><text x="30" y="177" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#00ED64">▸ </tspan>Interactive formula arenas &amp; student tools</text><text x="30" y="202" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#00ED64">▸ </tspan>Edge-deployed on Vercel with streaming SSR</text>
+  <g transform="translate(30,224)">
+      <rect width="85.1" height="22" rx="11" fill="#e6e9f5" fill-opacity=".12" stroke="#e6e9f5" stroke-opacity=".45"/>
+      <text x="42.55" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#e6e9f5">next.js 15</text>
+    </g><g transform="translate(123.1,224)">
+      <rect width="85.1" height="22" rx="11" fill="#3178c6" fill-opacity=".12" stroke="#3178c6" stroke-opacity=".45"/>
+      <text x="42.55" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#3178c6">typescript</text>
+    </g><g transform="translate(216.2,224)">
+      <rect width="71.68" height="22" rx="11" fill="#5eead4" fill-opacity=".12" stroke="#5eead4" stroke-opacity=".45"/>
+      <text x="35.84" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#5eead4">tailwind</text>
+    </g><g transform="translate(295.88,224)">
+      <rect width="91.81" height="22" rx="11" fill="#34d399" fill-opacity=".12" stroke="#34d399" stroke-opacity=".45"/>
+      <text x="45.905" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#34d399">vercel edge</text>
+    </g>
+</svg>

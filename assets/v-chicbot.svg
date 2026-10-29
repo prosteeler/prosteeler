@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="270" viewBox="0 0 590 270" role="img" aria-label="Chic Bot Service — Discord gateway &amp; community automation">
+  <title>Chic Bot Service — Discord gateway &amp; community automation</title>
+  <defs>
+    <linearGradient id="vchicbotsvg-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5865F2" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#1a2033" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#00ED64" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="vchicbotsvg-glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10152a"/>
+      <stop offset="1" stop-color="#05070e"/>
+    </linearGradient>
+    <radialGradient id="vchicbotsvg-orb" cx=".85" cy="0" r=".9">
+      <stop offset="0" stop-color="#5865F2" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#5865F2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="vchicbotsvg-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="vchicbotsvg-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .9 } 100% { transform: scale(3.2); opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important } }
+  </style>
+  
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vchicbotsvg-glass)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vchicbotsvg-grid)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="url(#vchicbotsvg-orb)"/>
+  <rect x=".5" y=".5" width="589" height="269" rx="14" fill="none" stroke="url(#vchicbotsvg-border)" stroke-width="1"/>
+  <text x="30" y="40" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.5" fill="#5865F2">COMMUNITY INFRA</text>
+  
+  <circle cx="496.895" cy="36" r="4" fill="#5865F2" filter="url(#vchicbotsvg-glow)"/>
+  <circle cx="496.895" cy="36" r="4" fill="none" stroke="#5865F2" class="pulse"/>
+  <text x="560" y="40" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#5865F2">DISCORD</text>
+  <text x="30" y="80" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="-.6" fill="#e6e9f5">Chic Bot Service</text>
+  <text x="30" y="110" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#7d849b">Discord gateway &amp; community automation</text>
+  <line x1="30" y1="128" x2="560" y2="128" stroke="#1a2033"/>
+  <text x="30" y="152" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#5865F2">▸ </tspan>Member verification, security &amp; onboarding</text><text x="30" y="177" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#5865F2">▸ </tspan>Auto-reconnecting WebSocket client</text><text x="30" y="202" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#e6e9f5" fill-opacity=".86"><tspan fill="#5865F2">▸ </tspan>Event-driven, modular command handlers</text>
+  <g transform="translate(30,224)">
+      <rect width="64.97" height="22" rx="11" fill="#00ED64" fill-opacity=".12" stroke="#00ED64" stroke-opacity=".45"/>
+      <text x="32.485" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#00ED64">node.js</text>
+    </g><g transform="translate(102.97,224)">
+      <rect width="91.81" height="22" rx="11" fill="#5865F2" fill-opacity=".12" stroke="#5865F2" stroke-opacity=".45"/>
+      <text x="45.905" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#5865F2">discord api</text>
+    </g><g transform="translate(202.78,224)">
+      <rect width="85.1" height="22" rx="11" fill="#5eead4" fill-opacity=".12" stroke="#5eead4" stroke-opacity=".45"/>
+      <text x="42.55" y="15" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="11" fill="#5eead4">websockets</text>
+    </g>
+</svg>

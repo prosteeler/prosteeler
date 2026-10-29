@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Programs: NVIDIA Inception, MongoDB for Startups, YC Startup School">
+  <title>Programs: NVIDIA Inception, MongoDB for Startups, YC Startup School</title>
+  <defs>
+    <linearGradient id="a-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#059669" stop-opacity=".9"/>
+      <stop offset=".5" stop-color="#1a2033" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity=".8"/>
+    </linearGradient>
+    <linearGradient id="a-glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10152a"/>
+      <stop offset="1" stop-color="#05070e"/>
+    </linearGradient>
+    <radialGradient id="a-orb" cx=".85" cy="0" r=".9">
+      <stop offset="0" stop-color="#059669" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="a-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="a-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs><g transform="translate(311.855,14)">
+      <rect width="170.88" height="36" rx="18" fill="#76B900" fill-opacity=".09" stroke="#76B900" stroke-opacity=".55"/>
+      <circle cx="18" cy="18" r="4" fill="#76B900" filter="url(#a-glow)"/>
+      <text x="32" y="23" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#76B900">NVIDIA Inception</text>
+    </g><g transform="translate(494.735,14)">
+      <rect width="202.6" height="36" rx="18" fill="#00ED64" fill-opacity=".09" stroke="#00ED64" stroke-opacity=".55"/>
+      <circle cx="18" cy="18" r="4" fill="#00ED64" filter="url(#a-glow)"/>
+      <text x="32" y="23" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#00ED64">MongoDB for Startups</text>
+    </g><g transform="translate(709.335,14)">
+      <rect width="178.81" height="36" rx="18" fill="#FB651E" fill-opacity=".09" stroke="#FB651E" stroke-opacity=".55"/>
+      <circle cx="18" cy="18" r="4" fill="#FB651E" filter="url(#a-glow)"/>
+      <text x="32" y="23" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#FB651E">YC Startup School</text>
+    </g>
+</svg>
