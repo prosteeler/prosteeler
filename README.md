@@ -167,7 +167,7 @@ interface ChiefTechnologyOfficer {
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=prosteeler&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=059669&text_color=e2e8f0" height="180" alt="prosteeler's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prosteeler&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=059669&text_color=e2e8f0" height="180" alt="prosteeler's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
         <img src="https://streak-stats.demolab.com/?user=prosteeler&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=E2E8F0&sideLabels=A7F3D0" height="180" alt="prosteeler's GitHub Streak" />
@@ -175,7 +175,7 @@ interface ChiefTechnologyOfficer {
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosteeler&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=e2e8f0" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prosteeler&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=e2e8f0" height="165" alt="Top Languages" />
 </div>
 
 ---
